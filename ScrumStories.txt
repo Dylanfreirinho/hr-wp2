@@ -1,0 +1,76 @@
+1.  Ik wil weten welk leerdoel of auteur ik selecteer op de update pagina.
+    Definition of Done:
+    Als je weet wat je selecteert.
+
+2.  Ik wil dat de tabel pagina er beter uit ziet.
+    Definition of Done:
+    Wanneer er geen alles net op een naast elkaar staat en iedereen het er goed uit vindt zien.
+
+3.  Ik wil een lijst kunnen opvragen met alle vragen waar HTML of systeemcodes in staan.
+    Definition of Done:
+    Wanneer de tabel zich zelf aanpast als je de optie voor HTML systeemcodes selecteert.
+    De systeemcodes die we willen opvragen zijn: <br>, &nbsp; & ¤.
+
+4.  Ik wil een lijst kunnen opvragen van vragen met ongeldige auteurs.
+    Definition of Done:
+    Wanneer de tabel zich zelf aanpast als je de optie voor ongeldige auteurs selecteert.
+
+5.  Ik wil alle kolommen kunnen zien met (of zonder) een bepaalde waarde.
+    Definition of Done:
+    Wanneer de tabel zich zelf aanpast als je de optie voor een zelf ingevulde waarde selecteert.
+
+6.  Ik wil dat de interface hetzelfde lettertype krijgt als de test correct website.
+    Definition of Done:
+    Wanneer de website het letter type Nunito gebruikt.
+
+7.  Ik wil bij een vraag een “terug naar lijst” knop willen hebben.
+    Definition of Done:
+    Wanneer de tabel weer de hele lijst laat zien wanneer je op de reset knop klikt.
+
+8.  Ik wil een lijst kunnen opvragen van vragen met ongeldige leerdoelen.
+    Definition of Done:
+    Wanneer de tabel zich zelf aanpast als je de optie voor ongeldige leerdoelen selecteert.
+
+9.  Ik wil door middel van filteren bepaalde rijen kunnen opvragen uit de database.
+    Definition of Done:
+    Wanneer de tabel zich zelf aanpast wanneer je één bepaalde id of een range van id’s kan selecteren.
+
+10. Ik wil dat je als je rij gaat aan passen je de leerdoelen en auteurs uit geschreven krijgt.
+    Definition of done:
+    Wanneer de waardes in de tabel niet meer een cijfer zijn maar een de tekst die bij dat cijfer hoeren.
+
+11. Ik wil kolommen met verkeerde datatypes kunnen opsporen.
+    Definition of Done:
+    Wanneer de tabel zich zelf aanpast als je de optie voor geen 0 of 1 selecteert.
+    De scope is verkleind omdat de enige verkeerde data types die er waren naar een boolean moesten.
+
+12. Ik wil de selecties van de filter opties dynamisch te voorschijn laten komen.
+    Definition of Done:
+    Als je de manier verandert dan moet het waarde velt veranderen naar degene die past bij het geselecteerde manier.
+
+13. Ik wil een update pagina aanmaken zodat de user bepaalde informatie in de kolommen kan aanpassen.
+    Definition of done:
+    Wanneer een gebruiker een kolom wilt bewerken,
+    drukt hij op de wijzig knop dat hem/haar vervolgens naar de update form brengt om aanpassingen te verrichten.
+    Wanneer een gebruiker een wijzig wilt aanbrengen bij een van de tabellen,
+    wordt de pagina weer terugverwezen bij hetzelfde tabel waar de wijzing is plaatsgevonden.
+
+14. Ik wil de opgevraagde lijst kunnen exporteren naar een csv-bestand.
+    Definition of done:
+    Als de gebruiker op de export csv knop klikt, dan zet hij de tabel om in een csv bestand dat je vervolgens kan openen in Excel.
+
+15. Ik wil kolommen met lege waardes kunnen invullen.
+    Definition of done:
+    De kolommen met lege waardes kunnen ingevuld worden.
+
+16. Ik wil individuele vragen uit de opgevraagde lijst kunnen aanpassen.
+    Definition of done:
+    Bij het kiezen van een auteur/leerdoel/vraag is het mogelijk om die allemaal individueel te kunnen wijzigen.
+
+17. Ik wil bij elke rij een knop hebben om de rij specifiek te kunnen roepen.
+    Definition of Done:
+    Bij elke rij komt er een knop te staan die klikbaar is en je doorstuurt naar de volgende pagina.
+
+18. Ik wil een rij kunnen verwijderen van de database.
+    Definition of Done:
+    Als gebruiker wil ik een bestaande rij van de database kunnen verwijderen.
